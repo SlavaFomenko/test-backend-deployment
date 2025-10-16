@@ -18,7 +18,7 @@ app.add_middleware(
 # URL ML сервісу - ЗАМІНІТЬ на свій URL після деплою на HF
 ML_SERVICE_URL = os.getenv(
     "ML_SERVICE_URL",
-    "https://YOUR-USERNAME-ukrainian-corrector-test.hf.space"
+    "https://viacheslavfomenko-perom.hf.space/health"
 )
 
 
